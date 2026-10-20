@@ -30,4 +30,4 @@ This project was developed to practice React, component-based architecture, stat
 
 ## Preview
 
-![](netflix-clone.gif)
+![](netflix-clon.gif)
